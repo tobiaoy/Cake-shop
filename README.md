@@ -1,2 +1,2 @@
 # Cake-shop
-A set of codes to make a cake shop
+A simple program to designed to instantiate cake objects in a cake shop.
